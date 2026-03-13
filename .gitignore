@@ -1,0 +1,44 @@
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Logs and temp
+*.log
+tmp/
+
+# Android/Gradle build outputs
+**/build/
+**/.cxx/
+**/.externalNativeBuild/
+**/.gradle/
+
+# Local/private configs
+android/local.properties
+android/app/google-services.json
+android/app/google-services.json.old
+*.keystore
+*.jks
+
+# Model binaries and local assets
+models/
+*.gguf
+
+# Vendored upstream dependency (kept on disk, excluded from clean publish history)
+android/lib/llama.cpp/
+
+# Backup/broken/random scratch files
+*.backup
+*.broken
+*~
+
+# Test and experimental scripts (keep on disk, do not commit)
+**/test_*.py
+**/*Test.kt
+**/src/test/**
+**/src/androidTest/**

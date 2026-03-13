@@ -1,0 +1,5 @@
+# For Android App Development with Python
+kivy[base]==2.3.0
+kivymd==1.2.0
+buildozer==1.5.0
+cython<3.0.0

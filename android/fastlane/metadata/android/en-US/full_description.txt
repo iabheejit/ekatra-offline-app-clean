@@ -1,0 +1,66 @@
+🎓 MAYA AI - Your Offline Learning Companion
+
+Learn anywhere, anytime - no internet required after initial setup!
+
+Maya AI is a revolutionary educational app that brings AI-powered tutoring directly to your device. Perfect for students in areas with limited connectivity.
+
+✨ KEY FEATURES
+
+📚 SOCRATIC LEARNING
+• AI tutor that guides you through questions
+• Helps you discover answers, not just gives them
+• Builds critical thinking skills
+
+🔒 COMPLETE PRIVACY
+• All AI processing happens on your device
+• No data sent to servers
+• No tracking or analytics
+• Your conversations stay private
+
+📶 FULLY OFFLINE
+• Download the AI model once
+• Works without internet forever
+• Perfect for rural areas and travel
+
+🤝 SHARE WITH FRIENDS
+• Multi-device mode lets you share AI with nearby students
+• One phone can help an entire classroom
+• Connect over local WiFi
+
+⚡ LIGHTWEIGHT & FAST
+• Optimized for Android phones
+• Works on devices with 4GB+ RAM
+• Quick responses using efficient AI
+
+🌍 DESIGNED FOR ACCESSIBILITY
+• Simple, clean interface
+• Easy to use for all ages
+• Low storage requirements
+
+PERFECT FOR:
+• Students in rural areas
+• Schools with limited internet
+• Self-directed learners
+• Anyone who values privacy
+
+SUBJECTS COVERED:
+• Mathematics
+• Science (Physics, Chemistry, Biology)
+• History & Geography
+• Language & Literature
+• General Knowledge
+• And more!
+
+HOW IT WORKS:
+1. Download the app
+2. Download the AI model (one-time, ~500MB)
+3. Start learning - no internet needed!
+
+TECHNICAL DETAILS:
+• Uses Qwen 0.5B language model
+• Powered by llama.cpp
+• Open-source foundations
+
+Made with ❤️ for students everywhere by Ekatra
+
+No ads. No subscriptions. No data collection. Just learning.

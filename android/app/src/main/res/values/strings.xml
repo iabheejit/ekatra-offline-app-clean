@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Branding -->
+    <string name="app_name">Maya AI</string>
+    <string name="app_tagline">Your Offline Learning Companion</string>
+    
+    <!-- Server Notifications -->
+    <string name="server_notification_title">Maya AI Server Running</string>
+    <string name="server_notification_text">Sharing knowledge with connected students</string>
+    
+    <!-- Download Screen -->
+    <string name="download_title">Welcome to Maya AI</string>
+    <string name="download_subtitle">Download the AI model to get started</string>
+    <string name="download_button">Download Model</string>
+    <string name="download_progress">Downloading…</string>
+    <string name="download_complete">Download Complete!</string>
+    <string name="download_error">Download failed. Please try again.</string>
+    <string name="download_size">Model size: ~500 MB</string>
+    <string name="download_note">You only need to do this once. After downloading, Maya AI works completely offline.</string>
+    
+    <!-- Chat Screen -->
+    <string name="chat_hint">Ask Maya anything…</string>
+    <string name="chat_send">Send</string>
+    <string name="chat_thinking">Thinking…</string>
+    <string name="chat_welcome">Hi! I\'m Maya, your AI learning companion. How can I help you today?</string>
+    <string name="chat_error">Sorry, I encountered an error. Please try again.</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_clear_history">Clear Conversation History</string>
+    <string name="settings_clear_confirm">Are you sure? This cannot be undone.</string>
+    <string name="settings_server_mode">Multi-Device Server</string>
+    <string name="settings_server_description">Share AI with nearby students on the same WiFi</string>
+    <string name="settings_dark_mode">Dark Mode</string>
+    <string name="settings_about">About Maya AI</string>
+    <string name="settings_version">Version</string>
+    <string name="settings_privacy">Privacy Policy</string>
+    <string name="settings_licenses">Open Source Licenses</string>
+    
+    <!-- About -->
+    <string name="about_title">About Maya AI</string>
+    <string name="about_description">Maya AI is an offline-first educational AI assistant designed for students in areas with limited internet connectivity. All AI processing happens on your device - your conversations never leave your phone.</string>
+    <string name="about_made_by">Made with ❤️ by Ekatra</string>
+    
+    <!-- Errors -->
+    <string name="error_model_not_found">AI model not found. Please download it first.</string>
+    <string name="error_model_loading">Error loading AI model. Please restart the app.</string>
+    <string name="error_network">Network error. Please check your connection.</string>
+    <string name="error_storage">Not enough storage space. Please free up some space.</string>
+    
+    <!-- Accessibility -->
+    <string name="content_description_send">Send message</string>
+    <string name="content_description_settings">Open settings</string>
+    <string name="content_description_back">Go back</string>
+    <string name="content_description_clear">Clear history</string>
+    
+    <!-- Play Store -->
+    <string name="store_short_description">Offline AI tutor for students. Learn without internet. Privacy-first.</string>
+
+    <!-- Google Sign-In: OAuth 2.0 web client ID from Firebase Console -->
+    <string name="default_web_client_id">727316288933-q6dpl8sh3dt5maln9cur41a5fhgitmns.apps.googleusercontent.com</string>
+</resources>

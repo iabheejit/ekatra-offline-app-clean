@@ -1,0 +1,39 @@
+# Android Gradle
+.gradle/
+build/
+local.properties
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# Native
+.cxx/
+*.so
+
+# Keystores (NEVER commit these!)
+*.keystore
+*.jks
+keystore/
+
+# Secrets
+*.secrets
+.env
+secrets.properties
+
+# Generated
+app/build/
+app/.cxx/
+
+# Models (too large)
+*.gguf
+*.bin
+
+# Logs
+*.log
+logs/
+
+# Backup files
+*.backup
+*.bak

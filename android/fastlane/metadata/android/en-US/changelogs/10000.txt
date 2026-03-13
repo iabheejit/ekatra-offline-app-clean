@@ -1,0 +1,17 @@
+## Version 1.0.0 - Initial Release 🎉
+
+### What's New
+- On-device AI tutoring - learn without internet!
+- Socratic learning mode for critical thinking
+- Multi-device sharing over local WiFi
+- Complete privacy - all data stays on your device
+- Beautiful native Android interface
+
+### Features
+- Chat with Maya AI anytime, anywhere
+- Download model once, use forever offline
+- Share AI with nearby students
+- Dark mode support
+- Conversation history
+
+Thank you for trying Maya AI! We're committed to bringing quality education to everyone, everywhere.
